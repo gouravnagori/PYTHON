@@ -1,0 +1,10 @@
+What is Python?
+  Python is a popular programming language. It was created by Guido van Rossum, and released in 1991.
+
+Features-
+  Python is simple and easy
+  free and open source
+  high level language
+  developed by Guido van Rossum
+  portable
+  interpreter is used (Translater)
