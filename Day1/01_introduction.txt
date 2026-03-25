@@ -8,3 +8,5 @@ Features-
   developed by Guido van Rossum
   portable
   interpreter is used (Translater)
+
+-Python is a case sensitive language.
