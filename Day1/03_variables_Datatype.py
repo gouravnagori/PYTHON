@@ -2,7 +2,8 @@
 name = "Gourav Nagori"
 age  = 19
 address = "Kumbhalgarh"
-hight = 184.3 #hight in cm
+hight = 184.3 #hight in cm #float stores always fractional values (in the form of p/q )
+# and decimal number are the number whose base is 10
 hight2 = hight
 print(name)
 print(age)

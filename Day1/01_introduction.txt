@@ -1,12 +1,30 @@
+What is programming - 
+   Programming is the process of creating specific instructions that tell a computer how to perform tasks, solve problems, or automate actions.
+   It involves writing code using specialized languages—like Python, JavaScript, or C++—which act as a bridge between human logic and binary machine code. 
+
 What is Python?
   Python is a popular programming language. It was created by Guido van Rossum, and released in 1991.
 
 Features-
+  Dynamic memory allocation
   Python is simple and easy
-  free and open source
-  high level language
-  developed by Guido van Rossum
-  portable
+  free and open source 
+  very high level language
+  developed by Guido van Rossum(1989) 
+  portable - platform independent
   interpreter is used (Translater)
+  Python is a case sensitive language
+  In python everything is object :)
+  it support oop and pop
+  Large stadard library 
 
--Python is a case sensitive language.
+-      comipler             vs             interpreter
+        
+1.  fast execution                    1. slow execution
+2.  take more memory                  2. take less memory
+3.  Full execution at one             3. Exection done line by line
+4.  Show all error at same time       4. show error one by one
+5.  Debugging is hard                 5. Debugging is easy
+6.  Ex. C/C++                         Ex. Python / JavaScript
+
+
