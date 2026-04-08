@@ -37,3 +37,12 @@ null_dict = {}
 print(null_dict)
 null_dict["Name"] = "Koushal Asawa"
 print(null_dict)
+
+info = {
+    "Name" : "Hello World"
+}
+info["x"]= "yaa"
+info["y"]= "huu"
+
+l = info["x"] + info["y"]
+print(l)
